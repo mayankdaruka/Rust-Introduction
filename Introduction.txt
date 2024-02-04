@@ -1,0 +1,15 @@
+Goal of Rust is to be good programming language for creating highly concurrent, safe and performant systems.
+
+3 main goals:
+ - safety
+ - speed
+ - concurrency
+
+It accomplishes these goals by being memory safe without using garbage collection.
+
+It also brings contemporary developer tools to the systems programming world:
+ - Cargo, an included dependency manager and build tool. It handles a lot of tasks for you including building your code, downlaoding the libraries your code depends on, and building those libraries
+ - Rustfmt, a formatting tool that ensures a consistent coding style across developers
+ - Rust Language Server powers IDE integration for code completion and inline error messages
+
+I will follow the Rust Programming Language book in order to learn the workings of Rust.
